@@ -1,1 +1,2 @@
 # officefile-processing
+一个处理office文件的程序，可以批量处理文件夹下的所有word或excel，有批量替换指定文本，文本高亮，文件名批量修改功能
